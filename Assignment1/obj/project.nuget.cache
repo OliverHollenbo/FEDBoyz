@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBlOBVnE9k6MYDV8WEjTiRGqkEt9hFXzu7aYmqdHaTGmcKbw315wFRzAAuLlYaNDN2iupHrCyKGgBRcvOxfl8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oholl\\OneDrive\\UNI\\4.Semester\\FED\\Assignment1\\Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oholl\\.nuget\\packages\\commonservicelocator\\2.0.4\\commonservicelocator.2.0.4.nupkg.sha512",
+    "C:\\Users\\oholl\\.nuget\\packages\\prism.core\\7.2.0.1422\\prism.core.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\oholl\\.nuget\\packages\\prism.forms\\7.2.0.1422\\prism.forms.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\oholl\\.nuget\\packages\\prism.wpf\\7.2.0.1422\\prism.wpf.7.2.0.1422.nupkg.sha512",
+    "C:\\Users\\oholl\\.nuget\\packages\\xamarin.forms\\3.6.0.344457\\xamarin.forms.3.6.0.344457.nupkg.sha512"
+  ],
+  "logs": []
+}
